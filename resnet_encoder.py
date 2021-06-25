@@ -9,7 +9,7 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 from keras.datasets import mnist
-from keras.models import Model
+from tensorflow.keras.models import Model
 # import os
 # import random
 import numpy as np
